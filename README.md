@@ -24,8 +24,8 @@ This application is a Node.js web server that connects to a MongoDB database. It
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone git@github.com:pavankreddy48/Centivo-Assignment.git
+   cd git@github.com:pavankreddy48/Centivo-Assignment.git
 2. **Create a .env File (optional)**: 
    
    If you want to customize environment variables, create a .env file in the root directory. You can define variables like MONGODB_URI and PORT.
